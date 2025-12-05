@@ -1,0 +1,35 @@
+{
+  "title": "Why Choose Us",
+  "features": [
+    {
+      "title": "More Taste",
+      "desc": "Finest matcha, creamy and smooth.",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/more.jpg?alt=media"
+    },
+    {
+      "title": "More Caffeine",
+      "desc": "85mg of caffeine per serving.",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/more2.jpg?alt=media"
+    },
+    {
+      "title": "More Weight Loss",
+      "desc": "With glucomannan for fullness.",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/more1.jpg?alt=media"
+    },
+    {
+      "title": "No Added Sugar",
+      "desc": "95% less sugar than other lattes.",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/more3.jpg?alt=media"
+    },
+    {
+      "title": "Boost Energy",
+      "desc": "Start your day right with energy.",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/more4.jpg?alt=media"
+    },
+    {
+      "title": "Rich Antioxidants",
+      "desc": "Protects cells from damage.",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/more5.jpg?alt=media"
+    }
+  ]
+}
